@@ -364,9 +364,10 @@
 }
 .wrap .frame1{
 	position: absolute;
-	width: 50%;
-	top: 30%;
-	left: 1%;
+    width: 15%;
+    top: 20%;
+    left: 231px;
+}
 }
 
 /*******************************/
@@ -388,9 +389,9 @@ img {
 		display: none;
 	}
 	.wrap .frame1{
-		width: 91%;
-top: 91px;
-left: -88px;
+		width: 27%;
+		top: 134px;
+		left: 7px;
 	}
 }
 .wrap .dolls{
