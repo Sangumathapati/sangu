@@ -364,9 +364,9 @@
 }
 .wrap .frame1{
 	position: absolute;
-    width: 15%;
-    top: 20%;
-    left: 231px;
+    width: 29%;
+    top: 46%;
+    left: 0px;
 }
 }
 
@@ -389,9 +389,9 @@ img {
 		display: none;
 	}
 	.wrap .frame1{
-		width: 27%;
-		top: 134px;
-		left: 7px;
+		width: 46%;
+		top: 114px;
+		left: 1px;
 	}
 }
 .wrap .dolls{
